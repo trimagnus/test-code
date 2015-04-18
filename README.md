@@ -1,2 +1,2 @@
 # test-code
-A place to stash my learning experiences
+A place to stash my learning experiences.
