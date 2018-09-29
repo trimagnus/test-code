@@ -11,5 +11,8 @@
     "url": "test-code"
   },
   "author": "trimagnus",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
