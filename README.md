@@ -2,6 +2,8 @@
 A place to stash my learning experiences.
 There will be no rhyme or reason here. Be warned ;)
 
+[Markdown Cheatsheet](https://help.ghost.org/article/4-markdown-guide)
+
 ### Crouton/Linux Dev Notes
 To copy into Nano from clipboard: ctrl+shift+v
 
