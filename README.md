@@ -14,6 +14,8 @@ Open terminal: `ctrl+alt+T`
 Single app window: `sudo enter-chroot xiwi [-T|-F] <appname>`
 
 *Note: May require preventing forking for some apps*
+
+Also note: `sudo enter-chroot -b xiwi <appname>` runs in background process. To fully close this window, use `ctrl+alt+shift+esc`.
   
 Full Desktop: `sudo startxfce4`
 
