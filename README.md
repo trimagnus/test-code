@@ -19,6 +19,11 @@ Full Desktop: `sudo startxfce4`
 
 Desktop in tab: `sudo startxfce4 -n <chroot-name> -X xiwi-tab`
 
+Use Chomebook browser as default in xfce:
+1. Go to Applications->Settings->Preferred Applications from the main XFCE menu
+2. On the Web Browser drop-down list, click the down arrow to the right, then pick "Other"
+3. From the resulting **Choose a custom Web Browser** dialog, paste in `croutonurlhandler "%s"`, then click on the Ok and then Close buttons.
+
 ### Useful Linux utilities
 * Nano
 * Git
