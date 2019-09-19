@@ -35,11 +35,26 @@ Use Chomebook browser as default in xfce:
 
 ### Node/JS notes
 `npm init` -> `nano .gitignore` -> *In .gitignore* `/node_modules`
+## Array methods with examples
+* Find
+* Filter
+* Map
+* Reduce
+* ForEach
+
+## Misc JS
+`'use strict';`
+`this`
+Promises | `async / await`
+DOM manipulation
 
 ## Technologies to learn
+* node.js
+* [express](http://expressjs.com/)
+* React
+* Webpack
+* Mocha
 * [sass](https://sass-lang.com/)
 * [grunt](https://gruntjs.com/) / [gulp](https://gulpjs.com/)
 * [MongoDB](https://www.mongodb.com/) (or other database?)
 * [pm2](http://pm2.keymetrics.io/)
-* [express](http://expressjs.com/)
-* angular / react / ???
