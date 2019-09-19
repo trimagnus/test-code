@@ -35,17 +35,21 @@ Use Chomebook browser as default in xfce:
 
 ### Node/JS notes
 `npm init` -> `nano .gitignore` -> *In .gitignore* `/node_modules`
-## Array methods with examples
+
+#### Array methods with examples
 * Find
 * Filter
 * Map
 * Reduce
 * ForEach
 
-## Misc JS
+#### Misc JS
 `'use strict';`
+
 `this`
+
 Promises | `async / await`
+
 DOM manipulation
 
 ## Technologies to learn
